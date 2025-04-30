@@ -1,0 +1,32 @@
+# Node
+node_modules/
+dist/
+build/
+
+# TypeScript
+*.tsbuildinfo
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
+
+# dotenv
+.env
+
+# Output
+*.pdf
+*.json
+uploads/
+outputs/
+
+# IDEs
+.vscode/
+.idea/
+
+# Dependency locks
+package-lock.json
+pnpm-lock.yaml
+yarn.lock

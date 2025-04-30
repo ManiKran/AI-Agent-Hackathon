@@ -1,0 +1,4 @@
+1-5+ years of experience in data analysis, machine learning preferably in an industry setting
+Degree in a technical or quantitative disciplines, like statistics, data science, machine learning
+Proficient in Python and SQL. Experience in snowflake is a plus.
+Are an independent thinker who can creatively approach data analysis and communicate complex ideas clearly.
