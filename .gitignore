@@ -17,8 +17,6 @@ npm-debug.log*
 .env
 
 # Output
-*.pdf
-*.json
 uploads/
 outputs/
 
