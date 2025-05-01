@@ -64,3 +64,30 @@ Mentor AI is an intelligent career guidance assistant that helps users bridge th
 ```bash
 git clone https://github.com/ManiKran/AI-Agent-Hackathon.git
 cd AI-Agent-Hackathon
+```
+
+## 2️⃣ Install backend dependencies
+
+```bash
+npm install
+```
+
+## 3️⃣ Setup environment variables(Put the Keys in the .env file)
+
+```bash
+cp .env.environment .env
+```
+
+## 4️⃣ Start the backend server
+
+```bash
+npx tsx src/server.ts
+```
+
+## 5️⃣ Setup frontend
+
+```bash
+cd src/frontend
+npm install
+npm run dev
+```
