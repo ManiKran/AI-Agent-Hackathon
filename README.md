@@ -55,6 +55,8 @@ Mentor AI is an intelligent career guidance assistant that helps users bridge th
   - Learning Resources
   - Weekly Plan (with durations & links)
 
+![App Screenshot](./workflow.png)
+
 ---
 
 ## 🖥️ Run Locally
